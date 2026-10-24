@@ -1,4 +1,5 @@
 from var import ph_present, pm_present, pw_present, pws_present, pb_present, pec_present, pt_present, pg_present, ph_price, pm_price, pw_price, pws_price, pb_price, pec_price, pt_price, pg_price, comission
+from sprites import palbo_default, palbo_hat, palbo_monacle, palbo_watch, palbo_walking_stick, palbo_body, palbo_estate_crest, palbo_tie, palbo_glasses
 # MAKE THE GAME WORK  
 """
 Precondition: Program ends
