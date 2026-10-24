@@ -1,3 +1,4 @@
+from sys import palbo_edit_beginning, palbo_continue, program_end_screen, palbo_default
 # GAME OUTPUT
 print("__________________________________________________________________")
 print("                     Pablo is an Artisan Console")
