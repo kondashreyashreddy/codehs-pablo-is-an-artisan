@@ -1,3 +1,4 @@
+from var import ph_present, pm_present, pw_present, pws_present, pb_present, pec_present, pt_present, pg_present, ph_price, pm_price, pw_price, pws_price, pb_price, pec_price, pt_price, pg_price, comission
 # MAKE THE GAME WORK  
 """
 Precondition: Program ends
