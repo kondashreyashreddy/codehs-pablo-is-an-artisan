@@ -1,3 +1,4 @@
+# GAME OUTPUT
 print("__________________________________________________________________")
 print("                     Pablo is an Artisan Console")
 print("Program Started.")
