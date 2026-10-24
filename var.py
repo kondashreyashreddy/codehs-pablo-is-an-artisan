@@ -19,6 +19,6 @@ pws_price = 150
 pb_price = 0
 pec_price = 1000
 pt_price = 20
-pg_glasses = 200
+pg_price = 200
 ## Commision Rate
 comission = 0.10
