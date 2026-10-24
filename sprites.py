@@ -1,3 +1,4 @@
+from var import HALFHEIGHT, HALFWIDTH
 # SPRITES
 """
 Precondition: Function gets called
