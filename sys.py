@@ -1,3 +1,4 @@
+from var import HALFHEIGHT, HALFWIDTH
 # MAKE THE GAME WORK  
 """
 Precondition: Program ends
